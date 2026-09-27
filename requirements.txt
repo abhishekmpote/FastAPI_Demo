@@ -1,0 +1,4 @@
+fastapi
+streamlit
+requests #HTTp client requests used by streamlit to call FastAPI
+uvicorn #server to run fast api
